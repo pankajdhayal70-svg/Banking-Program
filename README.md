@@ -1,2 +1,2 @@
 # Banking-Program
-banking services without ui
+python based banking services without ui
